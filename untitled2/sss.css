@@ -1,0 +1,151 @@
+body{
+    font-family: roboto,'roboto';
+}
+.header {
+    color:#3e84da;
+    padding-top:10px;
+    background: linear-gradient(white,#3e84da);
+    min-height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+
+ul , li {
+    display:block;
+}
+
+p {
+    color:#3e84da;
+}
+
+.head p {
+    color:#3e84da;
+}
+
+.menu li {
+    margin: 0 17px;
+    border-collapse: collapse;
+}
+
+.menu li:hover {
+    border-bottom:1px solid #3e84da;
+    cursor:pointer;
+}
+
+.menu li .fa{
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+.logo {
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.head p {
+    font-family: 'Montserrat', sans-serif;
+    font-size:12px;
+}
+
+.head button {
+    background-color: #3e84da;
+    border:none;
+    padding:10px 40px;
+    border-radius: 40px;
+}
+
+.head button:hover {
+    background-color: #3e84da;
+}
+
+.head {
+    padding:190px 95px;
+}
+
+section {
+    text-align: center;
+    margin-top:30px;
+}
+
+.sect p{
+    font-size: 14px;
+    padding-top: 10px;
+}
+
+
+.menu img
+{
+    width:100%;
+    border-radius: 5px;
+    margin:10px;
+}
+
+.menu .menu_text {
+    padding:25px 40px;
+    text-align: left;
+}
+
+.menu_text h6 {
+    cursor:pointer;
+}
+
+.question_fon {
+    margin-top:50px;
+    padding:30px;
+    background: url(https://f.vividscreen.info/soft/472b56c483b67f15ed6a710abec7492c/Love-Cupcake-2880x1920.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 30vh;
+    border-radius: 100px;
+}
+
+.question_fon .form-control {
+    border-radius: 30px;
+    border:none;
+    width:210px;
+}
+
+.question_fon h1 {
+    color:#E30064;
+    margin-bottom:30px;
+    font-size:45px;
+    text-shadow: 1px 1px black;
+}
+
+.question_fon .btn{
+    border-radius: 30px;
+}
+
+.sect_1 {
+    margin-top: 30px;
+}
+
+.cookers div{
+    width:210px;
+    height: 250px;
+
+    margin:10px;
+    margin-bottom:10px;
+    background: url(http://newspotok.ru/uploads/posts/2018-10/1539078712_21.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.cookers div div{
+    background: none;
+    border:2px solid #FF7700;
+    width:190px;
+    height:230px
+}
+
+.cook-names li{
+    padding:0px 84px 0px 50px;
+}
+
+footer {
+    background-color: #3e84da;
+    min-height:10vh;
+    color:white;
+    padding-top:20px;
+}
